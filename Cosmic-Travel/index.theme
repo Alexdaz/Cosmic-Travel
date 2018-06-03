@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Cosmic-Travel
+Comment=A cosmic theme for your computer.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Cosmic-Travel
+GtkTheme=Cosmic-Travel
+IconTheme=Cosmic-Travel
+MetacityTheme=Cosmic-Travel
