@@ -26,4 +26,4 @@ Cosmic Travel it's a cool theme for your computer, it was designed for: GNOME (i
 
 Cosmic Travel it's totally free, if you're enjoying the cosmic travel, feel free to buy me a beer :P
 
-[Donate!](paypal.me/AlexDaz22)
+[Donate!](https://www.paypal.com/paypalme/AlexDaz22/25)
